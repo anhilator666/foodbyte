@@ -71,7 +71,7 @@ export default FoodItemDetail;
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: 'linear-gradient(to bottom, #6A1B9A, #7B1FA2, #E53935)', // For gradient effect
+    backgroundColor: 'linear-gradient(to bottom, #E53935, #7B1FA2, #6A1B9A)', // For gradient effect
   },
   header: {
     padding: 16,
